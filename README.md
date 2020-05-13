@@ -86,7 +86,7 @@ http://192.168.1.105:8080/ ukazuje się główne menu (strona
 domowa) aplikacji.
 
 <p align="center">
-  <img src="{{site.url}}/images/1.png" alt="Location"/>
+ <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/1.png?raw=true" alt="Location"/>
 </p>
 
 Na stronie domowej znajdują się dwa przyciski z których korzysta się do
