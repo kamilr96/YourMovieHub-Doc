@@ -129,7 +129,7 @@ maila oraz przycisk “Wyloguj się” który wylogowywuje nas z bazy i cofa
 do strony domowej.
 
 <p align="center">
-<img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/6.png?raw=true" alt="Location"/>
+<img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/6.png?raw=true" alt="Location"/>
  </p>
      Przykładowo wprowadzamy frazę “Avengers” i Aplikacja wyszukuje nam
 wszystkie filmy i seriale powiązane z tą nazwą po wciśnięciu przycisku
@@ -140,13 +140,13 @@ pozwala na skomentowanie filmu i obejrzenie komentarzy innych
 użytkowników. W oknie znajduje się również opis filmu który przeglądamy.
      
    <p align="center">               
- <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/7.png?raw=true" alt="Location"/>
+ <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/7.png?raw=true" alt="Location"/>
     </p>
 Gwiazdki oznaczają ocenę od 1 do 5 i w zależności jak zaznaczymy i jaką
 ocenę wystawimy danemu filmowi, aplikacja po ponownym otwarciu okna
 pokaże nam średnią ogólną z naszą już dodaną do bazy oceną
   <p align="center">
-   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/8.png?raw=true" alt="Location"/>
+   <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/8.png?raw=true" alt="Location"/>
   </p>
 W polu komentarzy są dwa przyciski “Zamknij” który je zamyka oraz
 “Skomentuj” który pozwala na dodanie komentarza po ówczesnym
