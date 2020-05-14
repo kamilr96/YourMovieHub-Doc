@@ -57,12 +57,12 @@ komponentów dla Vue.
 ## Linki do oprogramowania które zostało wykorzystane
 
 
-1. [a link](https://www.jetbrains.com/phpstorm/)
-2. https://code.visualstudio.com/
-3. https://github.com/
-4. https://firebase.google.com/
-5. https://vuejs.org/
-6. https://vuetifyjs.com/en/
+1. [https://www.jetbrains.com/phpstorm/]
+2. [https://code.visualstudio.com/]
+3. [https://github.com/]
+4. [https://firebase.google.com/]
+5. [https://vuejs.org/]
+6. [https://vuetifyjs.com/en/]
 
 ## Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
@@ -131,9 +131,10 @@ do strony domowej.
 <p align="center">
 <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/6.png?raw=true" alt="Location"/>
  </p>
-     Przykładowo wprowadzamy frazę “Avengers” i Aplikacja wyszukuje nam
+Przykładowo wprowadzamy frazę “Avengers” i Aplikacja wyszukuje nam
 wszystkie filmy i seriale powiązane z tą nazwą po wciśnięciu przycisku
 “Szukaj”
+
 Po wciśnięciu na plakat filmowy otwiera nam się okno w którym znajduje
 się dwa przyciski “Zamknij” który zamyka okno oraz “Komentarze”, który
 pozwala na skomentowanie filmu i obejrzenie komentarzy innych
