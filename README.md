@@ -64,6 +64,11 @@ komponentów dla Vue.
 5. [https://vuejs.org/](https://vuejs.org/)
 6. [https://vuetifyjs.com/en/](https://vuetifyjs.com/en/)
 
+## Linki do składowych projektu
+
+
+   1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
+
 ## Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
 2. Należy pobrać, zainstalować i uruchomić PhpStorm/Visual
@@ -168,6 +173,5 @@ urządzeniach mobilnych co jest pokazane na poniższych screenach
      <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/12.png?raw=true" alt="Location"/>                
      </p>
      
-   ### Linki do składowych projektu
-   1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
+   
 
