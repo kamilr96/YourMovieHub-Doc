@@ -57,7 +57,7 @@ komponentów dla Vue.
 ## Linki do oprogramowania które zostało wykorzystane
 
 
-1. [https://www.jetbrains.com/phpstorm/]
+1. [https://www.jetbrains.com/phpstorm/](https://www.jetbrains.com/phpstorm/)
 2. [https://code.visualstudio.com/]
 3. [https://github.com/]
 4. [https://firebase.google.com/]
@@ -174,7 +174,7 @@ urządzeniach mobilnych co jest pokazane na poniższych screenach
 
 [Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
 
-[Link do repozytorium projektu na GitHub](https://github.com/pniedziela/YourMovieHub)
+[Link do repozytorium projektu na GitHub] (https://github.com/pniedziela/YourMovieHub)
 
 [Link do witryny internetowej projektu na GitHub](https://kamilr96.github.io/)
 
