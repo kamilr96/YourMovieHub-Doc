@@ -167,6 +167,7 @@ urządzeniach mobilnych co jest pokazane na poniższych screenach
    <p align="center"> 
      <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/12.png?raw=true" alt="Location"/>                
      </p>
-   ## Linki do składowych projektu
-   [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
+     
+   ### Linki do składowych projektu
+   1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
 
