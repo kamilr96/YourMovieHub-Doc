@@ -58,11 +58,11 @@ komponentów dla Vue.
 
 
 1. [https://www.jetbrains.com/phpstorm/](https://www.jetbrains.com/phpstorm/)
-2. [https://code.visualstudio.com/]
-3. [https://github.com/]
-4. [https://firebase.google.com/]
-5. [https://vuejs.org/]
-6. [https://vuetifyjs.com/en/]
+2. [https://code.visualstudio.com/](https://code.visualstudio.com/)
+3. [https://github.com/](https://github.com/)
+4. [https://firebase.google.com/](https://firebase.google.com/)
+5. [https://vuejs.org/](https://vuejs.org/)
+6. [https://vuetifyjs.com/en/](https://vuetifyjs.com/en/)
 
 ## Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
@@ -70,23 +70,23 @@ komponentów dla Vue.
 Studio Code.
 3. Po uruchomieniu Git Basha pobrać poprzez wpisanie git clone
 + repozytorium z linku:
-https://github.com/pniedziela/YourMovieHub
+[https://github.com/pniedziela/YourMovieHub](https://github.com/pniedziela/YourMovieHub)
 4. Uruchomić poprzez wybrany program pobrane repozytorium
 5. W konsoli wprowadzić następującą treść :
 npm install - zaczekać aż pobierze wszystkie moduły i
 biblioteki
 6. Po pobraniu i instalacji wprowadzić kolejną komendę:
 npm run serve - gdy się skompiluje nacisnąć w konsoli na:
-Network: http://192.168.1.105:8080/
+Network: [http://192.168.1.105:8080/](http://192.168.1.105:8080/)
 
 ## Instrukcja obsługi Aplikacji ( YourMovieHub)
 
 1. Po uruchomieniu npm run serve oraz wejsciu na link
-http://192.168.1.105:8080/ ukazuje się główne menu (strona
+[http://192.168.1.105:8080/](http://192.168.1.105:8080/) lub [https://pniedziela.github.io/YourMovieHub/](https://pniedziela.github.io/YourMovieHub/) ukazuje się główne menu (strona
 domowa) aplikacji.
 
 <p align="center">
- <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/1.png?raw=true" alt="Location"/>
+ <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/1.png?raw=true" alt="Location"/>
 </p>
 
 Na stronie domowej znajdują się dwa przyciski z których korzysta się do
@@ -97,12 +97,12 @@ wypełnić poprawnymi danymi (Hasło musi mieć co najmniej 6 znaków a
 e-mail @ w swoim wyrazie).
 
 <p align="center">
- <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/2.png?raw=true" alt="Location"/>
+ <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/2.png?raw=true" alt="Location"/>
  
  </p>
  Jeśli hasło jest za krótkie wyskakuje odpowiednie powiadomienie.
 <p align="center">
- <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/3.png?raw=true" alt="Location"/>
+ <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/3.png?raw=true" alt="Location"/>
   </p>
   Po poprawnej rejestracji aplikacja automatycznie zaloguje nas do serwisu.
 Naciskając przycisk “Zaloguj się” (Podczas pierwszego logowania po
@@ -110,14 +110,14 @@ rejestracji) wyświetli nam się pole z miejscem do wprowadzenia loginu i
 hasła, a następnie należy wcisnąć przycisk “Zaloguj”. Przycisk “Zamknij”
 w obu przypadkach zamyka okna z formularzami.
   <p align="center">
-  <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/4.png?raw=true" alt="Location"/>
+  <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/4.png?raw=true" alt="Location"/>
   </p>
   
   Użytkownikowi który poprawnie się zarejestrował i zalogował ukazuje się
 baza z filmami polecanymi w menu głównym.
    
  <p align="center">
-   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/5.png?raw=true" alt="Location"/>
+   <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/5.png?raw=true" alt="Location"/>
   </p>
                                                                                                      
   W menu głównym znajdują się cztery przyciski, które pobierają informacje z
@@ -153,28 +153,29 @@ W polu komentarzy są dwa przyciski “Zamknij” który je zamyka oraz
 “Skomentuj” który pozwala na dodanie komentarza po ówczesnym
 wpisaniu go w odpowiednie do tego miejsce.
  <p align="center">
-   <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/9.png?raw=true" alt="Location"/>
+   <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/9.png?raw=true" alt="Location"/>
   </p>
  Komentarz jest dodany i od razu wyświetla się użytkownikowi. Inne
 komentarze innych użytkowników są wyświetlane w liście również na żywo.
    <p align="center">                                                                                                   
-    <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/10.png?raw=true" alt="Location"/>                                    <p/>                                                        
+    <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/10.png?raw=true" alt="Location"/>                                    <p/>                                                        
    Aplikacja jest również responsywna i odpowiednio się skaluje na
 urządzeniach mobilnych co jest pokazane na poniższych screenach
  <p align="center">
     <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/11.png?raw=true" alt="Location"/>
          </p>    
    <p align="center"> 
-     <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/12.png?raw=true" alt="Location"/>                
+     <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/12.png?raw=true" alt="Location"/>                
      </p>
    
 ## Linki do składowych projektu:
+
 
 [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
 
 [Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
 
-[Link do repozytorium projektu na GitHub] (https://github.com/pniedziela/YourMovieHub)
+[Link do repozytorium projektu na GitHub](https://github.com/pniedziela/YourMovieHub)
 
 [Link do witryny internetowej projektu na GitHub](https://kamilr96.github.io/)
 
