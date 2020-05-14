@@ -162,7 +162,7 @@ komentarze innych użytkowników są wyświetlane w liście również na żywo.
    Aplikacja jest również responsywna i odpowiednio się skaluje na
 urządzeniach mobilnych co jest pokazane na poniższych screenach
  <p align="center">
-    <img src=https://github.com/kamilr96/kamilr96.github.io/blob/master/11.png?raw=true" alt="Location"/>
+    <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/11.png?raw=true" alt="Location"/>
          </p>    
    <p align="center"> 
      <img src="https://github.com/kamilr96/kamilr96.github.io/blob/master/12.png?raw=true" alt="Location"/>                
@@ -170,13 +170,6 @@ urządzeniach mobilnych co jest pokazane na poniższych screenach
    
 ## Linki do składowych projektu:
 
+[Link do witryny internetowej projektu na GitHub](https://kamilr96.github.io/YourMovieHub-Doc/)
 
-[Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
 
-[Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
-
-[Link do repozytorium projektu na GitHub](https://github.com/pniedziela/YourMovieHub)
-
-[Link do witryny internetowej projektu na GitHub](https://kamilr96.github.io/)
-
-[Link do zarządzania projektem informatycznym na GitHub](https://github.com/users/kamilr96/projects/1)
