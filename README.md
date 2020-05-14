@@ -57,7 +57,7 @@ komponentów dla Vue.
 ## Linki do oprogramowania które zostało wykorzystane
 
 
-1. https://www.jetbrains.com/phpstorm/
+1. [a link](https://www.jetbrains.com/phpstorm/)
 2. https://code.visualstudio.com/
 3. https://github.com/
 4. https://firebase.google.com/
