@@ -7,7 +7,7 @@
                         Przemysław Niedziela, WZISN2-1212, 217245
  
 
-# YourMovieHub
+# YourMovieHub - Filmowy Serwis Informacyjny
  Spis Treści
 1. Krótki opis Aplikacji
 2. Nazwy użytych technologii i oprogramowania
@@ -68,6 +68,12 @@ komponentów dla Vue.
 
 
    1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
+   2. [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
+   3. [Link do repozytorium](https://github.com/pniedziela/YourMovieHub/tree/develop)
+   4. [Link do zarządzania projektem informatycznym na GitHub](https://github.com/users/kamilr96/projects/1)
+   5. [Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
+
+
 
 ## Instrukcja i instalacja aplikacji
 1. Należy pobrać, zainstalować i uruchomić Git Bash.
