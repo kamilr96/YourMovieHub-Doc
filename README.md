@@ -68,10 +68,9 @@ komponentów dla Vue.
 
 
    1. [Link do witryny z dokumentacja projektu](https://kamilr96.github.io/YourMovieHub-Doc/)
-   2. [Link do zgłoszenia projektu](https://e-uczelnia.uek.krakow.pl/mod/forum/discuss.php?d=122135)
-   3. [Link do repozytorium](https://github.com/pniedziela/YourMovieHub/tree/develop)
-   4. [Link do zarządzania projektem informatycznym na GitHub](https://github.com/users/kamilr96/projects/1)
-   5. [Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
+   2. [Link do repozytorium](https://github.com/pniedziela/YourMovieHub/tree/develop)
+   3. [Link do zarządzania projektem informatycznym na GitHub](https://github.com/users/kamilr96/projects/1)
+   4. [Link do wykonanej aplikacji](https://pniedziela.github.io/YourMovieHub/)
 
 
 
